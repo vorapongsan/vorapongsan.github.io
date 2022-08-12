@@ -1,0 +1,17 @@
+{
+  "name": "vorapongsan.github.io",
+  "version": "0.0.1",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "generate": "nuxt generate",
+    "start": "nuxt start"
+  },
+  "repository": "https://github.com/vorapongsan/vorapongsan.github.io.git",
+  "author": "vorapongsan <vorapong.san@mahidol.ac.th>",
+  "license": "MIT",
+  "dependencies": {
+    "nuxt": "^2.15.8"
+  }
+}
